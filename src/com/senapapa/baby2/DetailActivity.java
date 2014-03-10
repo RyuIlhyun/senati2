@@ -31,6 +31,7 @@ import android.widget.TextView;
 public class DetailActivity extends Activity {
 
 	MySQLiteOpenHelper helper;
+	
 	SQLiteDatabase db;
 	
 	ImageButton btn;
